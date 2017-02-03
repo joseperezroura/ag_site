@@ -7,6 +7,8 @@ end
 # group :development, :test do
 #   gem 'sqlite3'
 # end
+gem 'owlcarousel-rails'
+gem 'bootstrap', '~> 4.0.0.alpha5'
 gem "rails_12factor", group: :production
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.1'
