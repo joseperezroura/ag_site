@@ -8,3 +8,12 @@
  *= require_self
  */
 @import "bootstrap";
+
+img {
+	height: 80px;
+}
+
+ul {
+  list-style-type: none;
+  display: inline-flex; 
+}
