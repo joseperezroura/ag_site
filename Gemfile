@@ -7,6 +7,7 @@ end
 # group :development, :test do
 #   gem 'sqlite3'
 # end
+gem "sprockets-es6", require: "sprockets/es6"
 gem 'owlcarousel-rails'
 gem 'bootstrap', '~> 4.0.0.alpha5'
 gem "rails_12factor", group: :production
